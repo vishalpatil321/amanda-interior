@@ -1,0 +1,300 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+ul{
+    display: flex;
+    
+    width: 50%;
+    justify-content: space-evenly;
+    
+
+}
+ul li{
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+
+}
+ul li a:hover{
+    text-decoration: underline;
+}
+.pricing{
+    text-decoration: underline;
+}
+.logo{
+    width: 200px;
+
+}
+
+header{
+
+    width: 100%;
+    height: 100px;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgb(255 255 255);
+    box-shadow: #3b3a3a;
+}
+.p2c1{
+    height: 150px;
+    text-align: center;
+    width: 55%;
+    
+    margin-left: 280px;
+}
+.p2h1{
+    font-size: 25px;
+    color: rgb(66, 65, 65);
+}
+.p2p1{
+    font-size: 14px;
+    color: #868484;
+}
+.p2c2{
+    width: 80%;
+
+    height: 340px;
+    margin-left: 133px;
+
+}
+.p2c3{
+    height: 150px;
+    text-align: center;
+    width: 55%;
+    
+    margin-left: 280px;
+}
+.p2h2{
+    font-size: 25px;
+    color: rgb(66, 65, 65);
+}
+.p2p2{
+    font-size: 14px;
+    color: #868484;
+}
+.p2c4{
+    width: 80%;
+    height: 400px;
+    
+    display: flex;
+    margin-left: 140px;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.basicp{
+
+    text-align: center;
+    width: 25%;
+    height: 100%;
+
+}
+.standardp{
+    
+    text-align: center;
+    width: 25%;
+    height: 100%;
+    
+}
+.premiump{
+    
+    text-align: center;
+    width: 25%;
+    height: 100%;
+    
+}
+.p2h3{
+    font-size: 25px;
+    color: rgb(66, 65, 65);
+}
+.p2p3{
+    
+        font-size: 14px;
+        color: #868484;
+    
+}
+.p2h4{
+    font-size: 25px;
+    color: rgb(66, 65, 65);
+}
+.p2p4{
+    
+        font-size: 14px;
+        color: #868484;
+    
+}
+.p2h5{
+    font-size: 25px;
+    color: rgb(66, 65, 65);
+}
+.p2p5{
+    
+        font-size: 14px;
+        color: #868484;
+    
+}
+.p2c5{
+    height: 150px;
+    text-align: center;
+    width: 55%;
+    
+    margin-left: 280px;
+}
+.p2h6{
+    font-size: 25px;
+    color: rgb(66, 65, 65);
+}
+.p2p6{
+    font-size: 14px;
+    color: #868484;
+}
+.contact{
+    width: 180px;
+    height: 28px;
+    background-color: #3b3a3a;
+    color: white;
+    border: 2px solid #3b3a3a;
+
+}
+.contact:hover{
+    background-color: rgb(227, 223, 223);
+    color: black;
+}
+footer{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    background-color: #f2f1f1;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.footer1{
+    width: 25%;
+    text-align: center;
+    
+    height: 90%;
+}
+.footer2{
+    width: 25%;
+    text-align: center;
+    
+    height: 90%;
+}
+.footer3{
+    width: 40%;
+    
+    
+    height: 90%;
+}
+.q1{
+    margin-left: 145px;
+}
+.a7{
+    margin-left: 50px;
+}
+.email{
+    margin-left: 50px;
+    border: none;
+    outline: none;
+    font-size: 11px;
+    background-color: #f2f1f1;
+    margin-top: 10px;
+    
+}
+.submit{
+    margin-left: 160px;
+    width:160px;
+    height: 30px;
+    background-color: #3b3a3a;
+    color: white;
+    border: 2px solid #3b3a3a;
+
+}
+.submit:hover{
+    background-color: rgb(227, 223, 223);
+    color: black;
+}
+.logo2{
+    width: 60%;
+    height: 15%;
+    display: flex;
+    
+    color: rgb(16, 11, 11);
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 60px;
+    font-size: 20px;
+
+}
+.a1{
+    text-decoration: black underline;
+    color: black;
+    font-size: 13px;
+
+
+}
+.a2{
+    text-decoration: black underline;
+    color: black;
+    font-size: 13px;
+
+
+}
+.a3{
+    text-decoration: black underline;
+    color: black;
+    font-size: 13px;
+
+
+}
+.a4{
+    text-decoration: black underline;
+    color: black;
+    font-size: 13px;
+
+
+}
+.a5{
+    text-decoration: black underline;
+    color: black;
+    font-size: 13px;
+
+
+}
+.a6{
+    
+    color: black;
+    font-size: 20px;
+
+
+}
+.a8{
+    
+    color: black;
+    font-size: 20px;
+
+
+}
+.a9{
+    
+    color: black;
+    font-size: 20px;
+
+
+}
+
+.a7{
+    
+    color: black;
+    font-size: 13px;
+
+
+}
